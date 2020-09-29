@@ -1,4 +1,6 @@
 
 ![](Network.PNG)
 
-Here, I created four different VLANs between End devices and Switches. 
+Here, I created four different VLANs between End devices and Switches.
+
+The Multilayer Switch (Core) is enabled for interVLAN routing. The switchports between the Switches are enabled as VLAN Trunk port. And the swtchorts between Switch and the End devices are enabled as VLAN Access port.
