@@ -18,6 +18,6 @@ int range <interface numbers>
   
 sh ip route
 
-ping <destination> source <interface>
+ping <destination> source (interface)
   
 sh ip nat translations
