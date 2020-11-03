@@ -4,20 +4,22 @@ sh ip int brief
 
 sh run
 
-sh int <interface number>
+sh int (interface number)
   
-debug ip icmp
+debug ip icmp -- debugging PING request
 
-un all
+un all -- turning OFF debugging
 
-no ip domain-lookup
+no ip domain-lookup -- Turn OFF IP Domain-lookup while configuration of devices for misspelled commands
 
-sh controllers <interface>
+sh controllers (interface)
   
-int range <interface numbers>
+int range (interface numbers)
   
 sh ip route
 
-ping <destination> source (interface)
+ping (destination) source (interface)
   
 sh ip nat translations
+
+debug ip packet
