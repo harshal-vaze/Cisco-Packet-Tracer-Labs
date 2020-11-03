@@ -1,25 +1,25 @@
 *Troubleshooting Commands*
 
-sh ip int brief
+1. sh ip int brief
 
-sh run
+2. sh run
 
-sh int (interface number)
+3. sh int (interface number)
   
-debug ip icmp -- debugging PING request
+4. debug ip icmp -- debugging PING request
 
-un all -- turning OFF debugging
+5. un all -- turning OFF debugging
 
-no ip domain-lookup -- Turn OFF IP Domain-lookup while configuration of devices for misspelled commands
+6. no ip domain-lookup -- Turn OFF IP Domain-lookup while configuration of devices for misspelled commands
 
-sh controllers (interface)
+7. sh controllers (interface)
   
-int range (interface numbers)
+8. int range (interface numbers)
   
-sh ip route
+9. sh ip route
 
-ping (destination) source (interface)
+10. ping (destination) source (interface)
   
-sh ip nat translations
+11. sh ip nat translations
 
-debug ip packet
+12. debug ip packet
