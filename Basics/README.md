@@ -18,7 +18,7 @@
   
 9. sh ip route
 
-10. ping (destination) source (interface)
+10. ping (destination) source (interface) -- remote PING
   
 11. sh ip nat translations
 
