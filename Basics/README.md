@@ -24,4 +24,8 @@
   
 * sh ip nat translations
 
-* debug ip packet
+* debug ip packet ?
+
+* sh version
+
+* sh control-plane host open-ports
