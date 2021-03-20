@@ -43,7 +43,7 @@ This Extended ACL 100 was binded to the interface Gig0/0/0 of the Router.
 ACL number 101 was created to restrict traffic externally as follows:
 
 - Any external device can access internal HTTP Servers using HTTP or HTTPS.
-- 
+
 - No external device can access the user subnet 10.1.2.0/24 (Explicitly add this line. This is normally done to log the traffic with the word log, but PT does not support logging).
 
 This Extended ACL 101 was binded to the interface Gig0/0/1 of the Router.
