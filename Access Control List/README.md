@@ -14,6 +14,7 @@ Here ACL number 100 was created to restrict the traffic internally using Router 
  
 This Extended ACL 100 was binded to the interface Gig0/0/0 of the Router.
 
+![](ACL3.png)
 
 
 
