@@ -67,3 +67,6 @@ Here DHCP policy was deployed on Router.
 ## Successfull implementation of DHCP policy in Router.
 
 ![](Router_CLI.png)
+
+
+Also API programming capabilities can be accessed from the host PC using real-world programming tools (curl, Python requests, VS code).
