@@ -7,6 +7,7 @@ Here an illustration of SDN Controller is demonstrated in the following network.
 
 *******************************************************************************************************************************************************************************
 
+
 ## Dashboard view of Controller displaying the overview of Controller.
 
 ![](Dashboard.png)
@@ -20,12 +21,14 @@ Here an illustration of SDN Controller is demonstrated in the following network.
 
 *******************************************************************************************************************************************************************************
 
+
 ## Network Devices accessible through Controller in the network.
 
 ![](Network_Devices.png)
 
 
 *******************************************************************************************************************************************************************************
+
 
 ## Hosts that can be reached by Controoler in the network.
 
@@ -34,12 +37,14 @@ Here an illustration of SDN Controller is demonstrated in the following network.
 
 *******************************************************************************************************************************************************************************
 
+
 ## This complete network by discovered just by connecting to single interface (10.1.1.254) of Router.
 
 ![](Discovery.png)
 
 
 *******************************************************************************************************************************************************************************
+
 
 ## Topology seen on the Controller.
 
@@ -48,12 +53,14 @@ Here an illustration of SDN Controller is demonstrated in the following network.
 
 *******************************************************************************************************************************************************************************
 
+
 ## Tracing path between in any end points in the network.
 
 ![](Path_Trace.png)
 
 
 *******************************************************************************************************************************************************************************
+
 
 ## Easily deploying Policies to the Network devices from the Controller.
 
@@ -63,6 +70,7 @@ Here DHCP policy was deployed on Router.
 
 
 *******************************************************************************************************************************************************************************
+
 
 ## Successfull implementation of DHCP policy in Router.
 
