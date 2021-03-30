@@ -1,6 +1,6 @@
 ![](ACL.png)
 
-An illustration of Access Control List on a Router 4321 in the network is illustrated here.
+An illustration of Access Control List on a Router 4321 in the network is demonstrated here.
 
 Here ACL number 100 was created to restrict the traffic internally using Router as follows:
 
@@ -25,7 +25,7 @@ This Extended ACL 100 was binded to the interface Gig0/0/0 of the Router.
 
 ![](ACL2.png)
 
-Second illustration of Access Control List on a Router 4321 in the network is illustrated also here.
+Second illustration of Access Control List on a Router 4321 in the network is demonstrated also here.
 
 In this illustration two ACLs were created, one for the internal network (ACL 100) and other for the outside network (ACL101).
 
